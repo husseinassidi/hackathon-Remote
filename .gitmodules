@@ -4,3 +4,6 @@
 [submodule "Hackathon-frontend"]
 	path = Hackathon-frontend
 	url = https://github.com/Moussa-H/Hackathon-frontend.git
+[submodule "hackathon-all"]
+	path = hackathon-all
+	url = https://github.com/mostafa-fallaha/hackathon-all.git
